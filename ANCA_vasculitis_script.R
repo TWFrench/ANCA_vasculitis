@@ -8,7 +8,6 @@
 #packages
 library(readxl) #to read excel workbooks into R
 library(dplyr) #for %>%  
-library(plyr) #for ddply() function
 library(pROC) #ROC curves 
 library(CIplot) #plotting CI intervals 
 library(survival) #for survival analysis 
